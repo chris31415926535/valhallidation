@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|2dbb35772001758a|||||||||||||||
+addresses|stem|792cbf12c550f192|960221d122d04aff|42ae6c4d501701ba|-707455750||t19480.6316451117s|457e5b011a82e426|27150|rds|local|vector|||25.646||
+num_to_sample|stem|192b01d9c7ac3b75|9196226201acf742|ef46db3751d8e999|-2040718890||t19480.6313475485s|b6d2e014b07bc296|51|rds|local|vector|||0.002||
