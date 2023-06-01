@@ -1,7 +1,9 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 .Random.seed|object|2dbb35772001758a|||||||||||||||
 addresses|stem|792cbf12c550f192|960221d122d04aff|42ae6c4d501701ba|-707455750||t19480.6316451117s|457e5b011a82e426|27150|rds|local|vector|||25.646||
-addresses_muni|stem|f5a74ee00a480940|d1b177799095dc60|c3b5fc02cdc369c1|281233351||t19480.7996862383s|45b73fa1c608957e|27433|rds|local|vector|||0.033||
-api_key|object|c4cd0bfb10c8ceae|||||||||||||||
+addresses_muni|stem|d9ab7a2d23815419|5e686d6805790d85|8c3d221f1ee400c3|281233351||t19508.774847674s|f9744cf5d8d73966|28619|rds|local|vector|||0.061||
+api_key|object|37f06854a602122b|||||||||||||||
 create_addresses|stem|a1f4a3c751cddbb2|7041e60ab592a7bd|42ae6c4d501701ba|-255473496||t19480.7985603802s|52a9cee44655267d|27428|rds|local|vector|||25.773||
+get_google_distance_api|function|c2a003d7735de3ca|||||||||||||||
+muni_google_apiresults|stem|3316fb9afc2ce9e3|704558cbd9212632|7ec197870a9002b9|1719094978||t19508.8204590133s|c6eaca258997dca2|123537|rds|local|vector|||1728.525||
 num_to_sample|stem|192b01d9c7ac3b75|9196226201acf742|ef46db3751d8e999|-2040718890||t19480.6313475485s|b6d2e014b07bc296|51|rds|local|vector|||0.002||
